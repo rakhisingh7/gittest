@@ -12,4 +12,8 @@ public with sharing class calculator {
      {
          Integer c=a-b;
      }
+          public static void div(Integer a, Integer b)
+     {
+         Integer c=a*b;
+     }
 }
