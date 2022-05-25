@@ -1,5 +1,9 @@
 public with sharing class calculator {
     public calculator() {
+<<<<<<< HEAD
+=======
+// added commment in master
+>>>>>>> 2d91cf4e9016fcc95dfca66bd56eb9c5f7f81980
     }
     public static void add(Integer a, Integer b)
      {
