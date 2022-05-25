@@ -8,5 +8,8 @@ public with sharing class calculator {
      public static void mul(Integer a, Integer b)
      {
          Integer c=a*b;
+     public static void sub(Integer a, Integer b)
+     {
+         Integer c=a-b;
      }
 }
